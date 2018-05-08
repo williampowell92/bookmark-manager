@@ -1,3 +1,8 @@
-<p>www.makersacademy.com</p>
-<p>www.github.com</p>
-<p>www.stackoverflow.com</p>
+<!DOCTYPE html>
+<html>
+<body>
+  <% @bookmarks.each do |bookmark| %>
+  <p><%= bookmark %></p>
+  <% end %>
+</body>
+</html>
