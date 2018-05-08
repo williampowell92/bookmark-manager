@@ -6,4 +6,4 @@ So that I can remember my favourite websites
 I would like to be able to see a list of bookmarks
 ```
 
-![domain model](https://imgur.com/gGXw3Ko)
+![domain model](https://i.imgur.com/gGXw3Ko.png)
