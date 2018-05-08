@@ -4,7 +4,7 @@ describe Bookmark do
 
   describe '.all' do
     it 'returns bookmarks' do
-      bookmarks = ['www.makersacademy.com', 'www.github.com', 'www.stackoverflow.com']
+      bookmarks = ['http://makersacademy.com', 'http://google.com', 'http://destroyallsoftware.com']
       expect(described_class.all).to eq bookmarks
     end
   end
